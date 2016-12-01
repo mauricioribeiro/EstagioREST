@@ -1,4 +1,4 @@
-package rest;
+package model;
 
 public class Resultado {
 	
@@ -18,3 +18,4 @@ public class Resultado {
 	
 	
 }
+

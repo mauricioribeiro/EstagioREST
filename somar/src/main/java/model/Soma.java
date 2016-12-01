@@ -1,14 +1,11 @@
-package rest;
+package model;
+
+import model.Resultado;
 
 public class Soma {
 	
 	private double a = 0.0;
 	private double b = 0.0;
-	
-	public Soma(float a, float b) {
-        this.a = a;
-        this.b = b;
-    }
 	
 	public double getA() {
 		return a;
